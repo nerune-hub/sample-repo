@@ -1,2 +1,2 @@
 # sample-repo
-test
+update
